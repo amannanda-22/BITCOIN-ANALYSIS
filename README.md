@@ -1,3 +1,4 @@
+
 # Bitcoin Sentiment × Hyperliquid Trader Performance
 
 > **Professional data science analysis** of the relationship between the
@@ -150,3 +151,4 @@ High-level takeaways:
 ---
 
 *Prepared as part of a Data Science assignment for a Web3 trading company.*
+# BITCOIN-ANALYSIS
